@@ -1,3 +1,3 @@
 # tab-tracker
 
-Testin a vue.js app
+Testing a vue.js app
